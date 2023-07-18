@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.gb.jcore"},{"l":"ru.gb.jcore.AppRuner"},{"l":"ru.gb.jcore.io"},{"l":"ru.gb.jcore.ui"}];updateSearchResults();

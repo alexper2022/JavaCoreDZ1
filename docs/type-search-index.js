@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.gb.jcore","l":"App"},{"p":"ru.gb.jcore.AppRuner","l":"AppRun"},{"p":"ru.gb.jcore.io","l":"FileInOut"},{"p":"ru.gb.jcore.ui","l":"Menu"},{"p":"ru.gb.jcore.io","l":"UserInput"}];updateSearchResults();
